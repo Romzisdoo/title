@@ -1,6 +1,6 @@
-#TITLES CLOUDE IN DAILY NEWS
+# TITLES CLOUDE IN DAILY NEWS
 
-##Introduction
+## Introduction
 It's a training project. The goal is to learn Python and parsing technology. The essence of the project:
 The number of words used in the headlines of the main Lithuanian newspapers is analyzed.
 Analyzed this Lithuanian Daily New portals:
@@ -8,7 +8,7 @@ Analyzed this Lithuanian Daily New portals:
 * 15min.lt
 * lrytas.lt
 
-##Technologies
+## Technologies
 The following programs and Python libraries are used:
 
 __Libraries__
@@ -22,7 +22,7 @@ __Libraries__
 * pandas
 
 
-##Launch
+## Launch
 __Parsing Daily News portal. Time: Now__
 * Use and run (use terminal diretory: /headings_cloude_v101/all_stream): 
     * 15min_main_now.py
